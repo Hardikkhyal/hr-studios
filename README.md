@@ -1,6 +1,7 @@
-# Restaurant_management_system
+# Welcome to HR STUDIOS
+**HR STUDIOS** is your ultimate destination for high-quality musical instruments. Our mission is to connect musicians and music enthusiasts with the finest instruments, ensuring every customer can discover their unique sound. Whether you're a beginner or a seasoned professional, we offer a wide range of instruments to suit every need and style. With a user-friendly shopping experience, convenient home delivery options, and secure payment gateways, HR STUDIOS makes purchasing your next instrument simple and hassle-free. Join our community of passionate musicians today and let the music begin!
 
-## Project Video Link : https://youtu.be/cpPmBlvtdrs
+
 
 ## Requirement
     
