@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+db.sqlite3
+*.db
+*.sqlite3
+
+# Environments & Virtualenvs
+.venv/
+venv/
+ENV/
+env/
+studio/
+hr/
+Demo/
+pyvenv.cfg
+.env
+
+# Media & Uploads
+media/
+/media/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
+Thumbs.db
