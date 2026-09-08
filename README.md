@@ -66,25 +66,6 @@ Run the local development server:
 python manage.py runserver
 ```
 Open [http://127.0.0.1:8000/](http://127.0.0.1:8000/) (or the designated port) in your web browser.
-
----
-
-## 🔑 Login Credentials
-
-For testing and demonstration, use the following pre-configured credentials:
-
-- **Customer Account:**
-  - **Username:** `user`
-  - **Password:** `user`
-
-- **Employee Account:**
-  - **Username:** `kaku`
-  - **Password:** `Kaku@4321`
-
-- **Admin Control Panel:**
-  - **Username:** `sumit`
-  - **Password:** `Sumit@4321`
-
 ---
 
 ## 📄 License
